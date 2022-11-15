@@ -24,6 +24,8 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 
 #
 
+<br>
+
 <p style="padding: 10px;">
 <picture>
 <source 
