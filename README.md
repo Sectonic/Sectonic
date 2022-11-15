@@ -1,4 +1,8 @@
-### Hi there 👋
+#  :ghost: Sectonic ➻ Sujal 
+
+**`He/Him`**┊**`Full-Stack Web Developer`** **`Artist & Designer`**
+
+I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every project I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. Currently my main project is building [Personality Academy](https://github.com/Sectonic/pa). I hope to see you around! :)
 
 <!--
 **Sectonic/Sectonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
