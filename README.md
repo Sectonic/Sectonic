@@ -2,7 +2,7 @@
 
 **`He/Him`**┊**`Full-Stack Developer`** **`Artist & Designer`**
 
-I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every project I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. I hope to see you around! :)
+I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every website I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. I hope to see you around! :)
 
 ---
 
