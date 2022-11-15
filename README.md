@@ -50,7 +50,7 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 #
 
 ### 📊 Main Projects
-> I spend most of my time on these :)
+> I spend most of my time on these 💯
 > 
 <div align="center">
   
