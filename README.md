@@ -19,7 +19,6 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="45px" style="padding:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="left" width="45px" style="padding:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="45px" style="padding:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" align="left" width="45px" style="padding:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" width="45px" style="padding:10px" />
 
           
