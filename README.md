@@ -4,6 +4,8 @@
 
 I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every project I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. Currently my main project is building [Personality Academy](https://github.com/Sectonic/pa). I hope to see you around! :)
 
+---
+
 ### :rocket: Languages and Tools
 > What I use and can deliver with in development!
 
@@ -26,15 +28,9 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 
 #
 
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true&theme=transparent&card_width=400&border_radius=20&hide_border=true"
-  media="(prefers-color-scheme: dark;)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true" />
-</picture>
+### 📊 My Stats
 
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sectonic&langs_count=4&theme=transparent&card_width=400&border_radius=20&hide_border=true"
@@ -42,7 +38,16 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sectonic" />
 </picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true&theme=transparent&card_width=400&border_radius=20&hide_border=true"
+  media="(prefers-color-scheme: dark;)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true" />
+</picture>
 </div>
+
+
 <!--
 **Sectonic/Sectonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
