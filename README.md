@@ -54,7 +54,7 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 > 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/Sectionic/pa)
   
 </div>
 
