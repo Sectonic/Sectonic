@@ -47,15 +47,18 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
 </picture>
 </div>
 
+#
+
+### 📊 Main Projects
+> I spend most of my time on these :)
+> 
 <div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true"
-  media="(prefers-color-scheme: dark;)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sectonic" />
-</picture>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+
+Below are other projects I have done ⚡
 
 
 <!--
