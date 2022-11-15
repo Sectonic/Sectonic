@@ -2,7 +2,7 @@
 
 **`He/Him`**┊**`Full-Stack Developer`** **`Artist & Designer`**
 
-I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every project I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. Currently my main project is building [Personality Academy](https://github.com/Sectonic/pa). I hope to see you around! :)
+I am a 16 year old full-stack web developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every project I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. I hope to see you around! :)
 
 ---
 
@@ -44,6 +44,16 @@ I am a 16 year old full-stack web developer and artist wanting to display what I
   media="(prefers-color-scheme: dark;)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true" />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true"
+  media="(prefers-color-scheme: dark;)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sectonic" />
 </picture>
 </div>
 
