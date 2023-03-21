@@ -56,7 +56,7 @@ I am a 17 year old full-stack web developer and artist wanting to display what I
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/Sectonic/pa)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=FRHSTech&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/Sectonic/FRHSTech)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirAlienTheGreat&repo=cshs-website&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/SirAlienTheGreat/cshs-website)
   
 </div>
 
