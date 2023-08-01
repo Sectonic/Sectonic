@@ -28,8 +28,6 @@ I am a 17 year old full-stack web developer and artist wanting to display what I
 
 #
 
-#
-
 ### 📊 Main Projects
 > I spend most of my time on these 💯
 > 
