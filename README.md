@@ -28,25 +28,6 @@ I am a 17 year old full-stack web developer and artist wanting to display what I
 
 #
 
-### 📊 My Stats
-
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sectonic&langs_count=4&theme=transparent&card_width=400&border_radius=20&hide_border=true"
-  media="(prefers-color-scheme: dark;)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sectonic" />
-</picture>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true&theme=transparent&card_width=400&border_radius=20&hide_border=true"
-  media="(prefers-color-scheme: dark;)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sectonic&show_icons=true" />
-</picture>
-</div>
-
 #
 
 ### 📊 Main Projects
