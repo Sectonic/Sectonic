@@ -1,12 +1,12 @@
 #  :ghost: Sectonic ➻ Sujal 
 
-**`He/Him`**┊**`Full-Stack Developer`** **`Artist & Designer`**
+**`He/Him`**┊**`Full-Stack Developer`**
 
-I am a 19-year-old full-stack software developer and artist wanting to display what I am capable of. Coming from a background in digital art, I approached web development with a touch of creativity and design. Every website I create is planned, designed, and developed from scratch. I love working collaboratively on projects as well as forming my own. I hope to see you around! :)
+I like making cool stuff
 
 ---
 
-### :rocket: Skills
+### :rocket: What I Use
 
 <a name="languages-and-tools"></a>
 
@@ -53,15 +53,14 @@ I am a 19-year-old full-stack software developer and artist wanting to display w
 ### 📊 Main Projects
 > I spend most of my time on these 💯
 > 
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/Sectonic/pa)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirAlienTheGreat&repo=cshs-website&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/SirAlienTheGreat/cshs-website)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Check-In&theme=city_lights&card_width=400&border_radius=20&hide_border=true)](https://github.com/Sectonic/Check-In)
-  
-</div>
+  <p align="left">
+    <a href="https://github.com/Sectonic/pa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
+    <a href="https://github.com/GTBitsOfGood/ican"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GTBitsOfGood&repo=ican&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Ican"></a>
+    <a href="https://github.com/Sectonic/pa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
+    <a href="https://github.com/Sectonic/pa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
+    <a href="https://github.com/Sectonic/pa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
+    <a href="https://github.com/Sectonic/pa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=pa&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
+  </p>
 
 
 <!--
