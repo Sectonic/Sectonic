@@ -2,7 +2,7 @@
 
 **`He/Him`**┊**`Full-Stack Developer`**
 
-I like making cool stuff
+I like making cool stuff!
 
 ---
 
@@ -50,8 +50,7 @@ I like making cool stuff
 
 #
 
-### 📊 Main Projects
-> I spend most of my time on these 💯
+### 📊 Some of My Projects
 > 
   <p align="left">
     <a href="https://github.com/Sectonic/Personality-Academy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Personality-Academy&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
