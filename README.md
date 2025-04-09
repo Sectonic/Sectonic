@@ -50,7 +50,7 @@ I like making cool stuff!
 
 #
 
-### 📊 Some of My Projects
+### 📊 What I'm currently working on!
 > 
   <p align="left">
     <a href="https://github.com/Sectonic/Personality-Academy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Personality-Academy&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
