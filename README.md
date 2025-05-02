@@ -2,7 +2,7 @@
 
 **`He/Him`**┊**`Full-Stack Developer`**
 
-I'm an aspiring software engineer experienced in web, mobile, and game development studying Computer Science at Georgia Tech
+I'm an aspiring software engineer experienced in web, mobile, and game development studying Computer Science at Georgia Tech. I like building stuff.
 
 ### 🔗 Let’s connect
 - 🌐 [**Portfolio**](https://sujaldhakal.dev)
