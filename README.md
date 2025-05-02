@@ -1,10 +1,14 @@
-#  :ghost: Sectonic ➻ Sujal 
+# 👋 Hey, I’m Sujal
 
 **`He/Him`**┊**`Full-Stack Developer`**
 
-I like making cool stuff!
+I'm an aspiring software engineer experienced in web, mobile, and game development studying Computer Science at Georgia Tech
 
----
+### 🔗 Let’s connect
+- 🌐 [**Portfolio**](https://sujaldhakal.dev)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/sujald/)
+
+#
 
 ### :rocket: What I Use
 
@@ -60,19 +64,3 @@ I like making cool stuff!
     <a href="https://github.com/Sectonic/HitchHikr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=HitchHikr&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="HitchHikr"></a>
     <a href="https://github.com/Sectonic/Medieval-Markets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Medieval-Markets&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Medieval-Markets"></a>
   </p>
-
-
-<!--
-**Sectonic/Sectonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
