@@ -59,8 +59,8 @@ I'm an aspiring software engineer experienced in web, mobile, and game developme
   <p align="left">
     <a href="https://github.com/Sectonic/DataFly-CLI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=datafly-cli&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Ican"></a>
     <a href="https://github.com/Sectonic/DAN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=DAN&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="DAN"></a>
+    <a href="https://github.com/GTBitsOfGood/ican"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GTBitsOfGood&repo=ican&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="HitchHikr"></a>
     <a href="https://github.com/Sectonic/Personality-Academy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Personality-Academy&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Personality Academy"></a>
     <a href="https://github.com/Sectonic/check-in"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=check-in&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Check-In"></a>
     <a href="https://github.com/Sectonic/Medieval-Markets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Medieval-Markets&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Medieval-Markets"></a>
-    <a href="https://github.com/Sectonic/HitchHikr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=HitchHikr&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="HitchHikr"></a>
   </p>
